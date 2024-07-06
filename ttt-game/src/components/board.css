@@ -1,0 +1,12 @@
+.board {
+    width: 340px;
+    height: 340px;
+    padding: 16px;
+    background: transparent;
+    border-radius: 16px;
+    border: 2px solid #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
